@@ -1,20 +1,10 @@
 {
-  "name": "Test-Grunt",
-  "version": "0.1.0",
-  "description": "test",
-  "main": "index.html",
-  "keywords": [
-    "test"
-  ],
-  "authors": [
-    "h02e56"
-  ],
-  "license": "MIT",
-  "homepage": "not yet",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test"
-  ]
+  "name": "test-grunt",
+  "version": "0.0.0",
+  "dependencies": {
+    "sass-bootstrap": "~3.0.0",
+    "modernizr": "~2.6.2",
+    "jquery": "~1.10.2"
+  },
+  "devDependencies": {}
 }
