@@ -1,0 +1,28 @@
+{
+  "name": "Test-Grunt",
+  "version": "0.1.0",
+  "description": "test",
+  "main": "src/index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-jshint": "~0.7.2",
+    "grunt-contrib-nodeunit": "~0.2.2",
+    "grunt-contrib-uglify": "~0.2.7",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-qunit": "~0.3.0",
+    "grunt-contrib-watch": "~0.5.3"
+  },
+  "scripts": {
+    "test": "spec/spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.com/h02e56/Test-Bower"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "me",
+  "license": "BSD-2-Clause"
+}
