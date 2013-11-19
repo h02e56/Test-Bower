@@ -1,18 +1,17 @@
 {
   "name": "test-grunt",
-  "description": "test"
+  "description": "test",
   "version": "0.0.0",
   "repository": {
     "type": "git",
     "url": "http://github.com/h02e56/Test-Bower"
-  }
+  },
   "dependencies": {},
   "devDependencies": {
     "grunt": "~0.4.1",
     "grunt-contrib-copy": "~0.4.1",
     "grunt-contrib-concat": "~0.3.0",
     "grunt-contrib-uglify": "~0.2.0",
-    "grunt-contrib-compass": "~0.5.0",
     "grunt-contrib-jshint": "~0.6.3",
     "grunt-contrib-cssmin": "~0.6.0",
     "grunt-contrib-connect": "~0.5.0",
